@@ -26,4 +26,4 @@ class String
   end
 end
 
-puts count_sentences("What about this sentence?? Huh!?")
+puts "What about this input?? Huh!?".count_sentences
