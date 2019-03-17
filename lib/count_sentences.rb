@@ -22,7 +22,7 @@ class String
         final_array << item
       end
     end
-    final_array
+    final_array.count
   end
 end
 
